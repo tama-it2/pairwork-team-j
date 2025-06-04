@@ -5,9 +5,9 @@
 
 ## チームメンバー
 
-### 多摩太郎（[石川ゼミ](README.md#石川先生の紹介)）
-- 趣味：街歩き
-- 特技：そろばん
+### 唐戸裕汰（[新西ゼミ](https://www.tama.ac.jp/guide/teacher/shinnishi_makoto.html)）
+- 趣味：ゲーム、アニメ鑑賞
+- 特技：ボクシング
 
 ### 入倉　城太郎（[新西ゼミ](https://www.tama.ac.jp/guide/teacher/shinnishi_makoto.html)）
 - 趣味： ゲーム
