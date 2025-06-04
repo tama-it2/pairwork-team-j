@@ -9,9 +9,9 @@
 - 趣味：街歩き
 - 特技：そろばん
 
-### 永山　進（[出原ゼミ](README.md#出原先生の紹介)）
-- 趣味：
-- 特技：
+### 入倉　城太郎（[新西ゼミ](https://www.tama.ac.jp/guide/teacher/shinnishi_makoto.html)）
+- 趣味：ゲーム
+- 特技：卓球
 
 ## 石川先生の紹介
 
