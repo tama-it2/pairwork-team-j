@@ -10,8 +10,8 @@
 - 特技：そろばん
 
 ### 入倉　城太郎（[新西ゼミ](https://www.tama.ac.jp/guide/teacher/shinnishi_makoto.html)）
-- 趣味：ゲーム
-- 特技：卓球
+- 趣味： ゲーム
+- 特技： 卓球
 
 ## 石川先生の紹介
 
